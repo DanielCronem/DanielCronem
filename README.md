@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Daniel 👋</h1>
 
-<!--
-**DanielCronem/DanielCronem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+Developer;QA+Enthusiast;Always+Learning" />
+</p>
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,git,github,vscode,linux" />
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=DanielCronem&show_icons=true" />
+
+## Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCronem&layout=compact" />
