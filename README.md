@@ -1,53 +1,55 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 
-# Hi 👋, I'm Daniel
+<h3 align="center">A Developer from Brazil 🇧🇷</h3>
 
-### A Developer from Brazil 🇧🇷
-
-<p>
-  Passionate about technology, programming, software development and learning new things.
+<p align="center">
+  Passionate about web development, technology, design and building new projects.
 </p>
 
-<img
-  src="https://img.shields.io/badge/Developer-Brazil-blue?style=flat-square"
-/>
-
-<img
-  src="https://img.shields.io/badge/English-Advanced-blue?style=flat-square&logo=unitedstates"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
 
 <br>
 
 <ul>
   <li>
-    💻 I'm currently learning and developing projects with
+    💻 I'm currently learning and building projects with
     <strong>JavaScript, HTML and CSS</strong>
   </li>
 
   <li>
-    🐧 I use <strong>Linux</strong> as part of my development environment
+    🎨 I use <strong>Figma</strong> to design interfaces and prototype ideas
   </li>
 
   <li>
-    🎨 I have experience with <strong>Figma</strong> and interface design
+    🔧 I use <strong>Git</strong> for version control and to organize my projects
   </li>
 
   <li>
-    🔧 I use <strong>Git and GitHub</strong> for version control and project management
+    🌱 I'm currently improving my skills in
+    <strong>front end development and programming</strong>
   </li>
 
   <li>
-    📚 I'm constantly learning more about programming and software development
+    💬 Ask me about
+    <strong>JavaScript, HTML, CSS, Git and Figma</strong>
   </li>
 
   <li>
-    🇺🇸 I have knowledge of the <strong>English language</strong>
+    🇧🇷 I'm a developer from <strong>Brazil</strong>
   </li>
 
   <li>
-    🌎 Based in <strong>Brazil</strong>
+    🇺🇸 I can communicate and study technology in <strong>English</strong>
+  </li>
+
+  <li>
+    ⚡ Fun fact,
+    <strong>I enjoy learning by creating real projects and turning ideas into working interfaces.</strong>
   </li>
 </ul>
 
@@ -55,135 +57,109 @@
 
 <hr>
 
-<div align="center">
+<h3 align="center">Connect with me:</h3>
 
-## Connect with me
+<p align="center">
 
-<br>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="GitHub"
+      height="30"
+      width="40"
+    />
+  </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img
-    src="https://cdn.simpleicons.org/github/ffffff"
-    width="38"
-    height="38"
-    alt="GitHub"
-  />
-</a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
 
-&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Twitter"
+      height="30"
+      width="40"
+    />
+  </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="38"
-    height="38"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-  <img
-    src="https://cdn.simpleicons.org/x/ffffff"
-    width="38"
-    height="38"
-    alt="X"
-  />
-</a>
-
-</div>
+</p>
 
 <br>
 
 <hr>
 
-<div align="center">
+<h3 align="center">Languages and Tools:</h3>
 
-## Languages and Tools
+<p align="center">
 
-<br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="JavaScript"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<img
-  src="https://cdn.simpleicons.org/javascript/F7DF1E"
-  width="42"
-  height="42"
-  alt="JavaScript"
-/>
+  &nbsp;
 
-&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="HTML"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<img
-  src="https://cdn.simpleicons.org/html5/E34F26"
-  width="42"
-  height="42"
-  alt="HTML"
-/>
+  &nbsp;
 
-&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="CSS"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<img
-  src="https://cdn.simpleicons.org/css/663399"
-  width="42"
-  height="42"
-  alt="CSS"
-/>
+  &nbsp;
 
-&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="Git"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<img
-  src="https://cdn.simpleicons.org/figma/F24E1E"
-  width="42"
-  height="42"
-  alt="Figma"
-/>
+  &nbsp;
 
-&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="Figma"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<img
-  src="https://cdn.simpleicons.org/git/F05032"
-  width="42"
-  height="42"
-  alt="Git"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.simpleicons.org/github/ffffff"
-  width="42"
-  height="42"
-  alt="GitHub"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.simpleicons.org/linux/FCC624"
-  width="42"
-  height="42"
-  alt="Linux"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
-  width="42"
-  height="42"
-  alt="Visual Studio Code"
-/>
-
-</div>
+</p>
 
 <br>
 
 <hr>
 
-<div align="center">
-
-### Daniel
-
-Developer from Brazil 🇧🇷
-
-</div>
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
